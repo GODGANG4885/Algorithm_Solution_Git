@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\우아한 형제들_2018_Intern 1차">
+      <UniqueIdentifier>{4f6688b9-2688-4dd3-9cab-763b0d65da4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Programmers\Programmers\배민1차.cpp">
+      <Filter>소스 파일\우아한 형제들_2018_Intern 1차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
